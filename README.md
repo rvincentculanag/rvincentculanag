@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 # 💻 Jr. Developer
 
 > ## 📝 Notes
-> **This is my main account** - I have made a few accounts after this account in order to practice **git* and **GitHub**. Unfortunately, I can't delete those accounts anymore because I forgot my passwords. If you want to check those account ([ritzculanagm](https://github.com/ritzculanagm), and [rvculanag](https://github.com/rvculanag)) feel free to do so, but I don't have that much repos in there. 
+
+> **This is my main account** - I have made a few accounts after this account in order to practice **git* and **GitHub**. Unfortunately, I can't delete those accounts anymore because I forgot my passwords. If you want to check those account ([ritzculanagm](https://github.com/ritzculanagm), and [rvculanag](https://github.com/rvculanag)) feel free to do so, but I don't have that much repos in there.
 
 ## 🏫 Education
 
